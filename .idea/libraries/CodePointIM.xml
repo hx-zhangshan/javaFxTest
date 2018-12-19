@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="CodePointIM">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../jdk1.8.0_191/demo/jfc/CodePointIM/CodePointIM.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../jdk1.8.0_191/demo/jfc/CodePointIM/src.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
